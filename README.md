@@ -11,3 +11,6 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 6. Code to mask white pixels in a gray scale image: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-6-Code-to-mask-white-pixels-in-a-gray-scale-image-OpenCV.php
 7. Code to mask white pixels in a colored image: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-7-Code-to-mask-white-pixels-in-a-coloured-image-OpenCV.php
 8. Region of interest Selection: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-8-Select-Region-of-Interest-OpenCV.php
+9. Tic-Tac-Toe Game: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-9-Multiplayer-Tic-Tac-Toe.php
+
+
