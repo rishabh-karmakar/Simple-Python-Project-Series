@@ -23,9 +23,9 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 ## Intermediate
 
-1. Titanic Classification using Decision Tree: 
+1. Titanic Classification using Decision Tree: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Project-1-Titanic-Classification-using-Decision-Tree.php
 
-2. Iris Data Classification using Decision Tree: 
+2. Iris Data Classification using Decision Tree: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Project-2-Iris-Data-Classification.php
 
 ## Advanced
 
