@@ -3,7 +3,11 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 ### User: https://cppsecrets.com/user/index.php?uid=5271
 
 ## Contents:
-[Simple Projects](#Simple)
+[Simple Projects](#simple)
+
+[Imtermediate Projects](#intermediate)
+
+[Advanced Projects](#advanced)
 
 ## Simple
 1. Simple Guessing Game: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-1-Simple-Guessing-Game.php
@@ -19,5 +23,12 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 ## Intermediate
 
+1. Titanic Classification using Decision Tree: 
+
+2. Iris Data Classification using Decision Tree: 
+
 ## Advanced
+
+1. Facial Recognition Based Attendance Management System: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php
+
 
