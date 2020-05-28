@@ -27,6 +27,8 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 2. Iris Data Classification using Decision Tree: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Project-2-Iris-Data-Classification.php
 
+3. Sentiment and WordCloud Analysis of Women E-Commerce: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Project-3-Sentiment-and-WordCloud-Analysis-of-Women-E-Commerce.php
+
 ## Advanced
 
 1. Facial Recognition Based Attendance Management System: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php
