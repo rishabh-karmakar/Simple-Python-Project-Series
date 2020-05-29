@@ -33,4 +33,4 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 1. Facial Recognition Based Attendance Management System: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php
 
-
+2. Deep Dream AI: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-2-Deep-Dream-AI.php
