@@ -39,4 +39,6 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 4. Forest Fire Prediction: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-4-Forest-Fire-Prediction-using-SVR-Random-Forest-and-Deep-NN.php
 
+5. Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network (RNN): https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-5-Analysis-with-Sentiment-Classification-using-Bidirectional-Recurrent-Neural-Network.php
+
 
