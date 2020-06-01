@@ -20,6 +20,7 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 7. Code to mask white pixels in a colored image: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-7-Code-to-mask-white-pixels-in-a-coloured-image-OpenCV.php
 8. Region of interest Selection: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-8-Select-Region-of-Interest-OpenCV.php
 9. Tic-Tac-Toe Game: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-9-Multiplayer-Tic-Tac-Toe.php
+10. Make a multi-colored rainbow pattern in Python: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Simple-Python-Projects-10-Make-a-multi-colored-rainbow-pattern-in-Python.php
 
 ## Intermediate
 
@@ -28,6 +29,8 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 2. Iris Data Classification using Decision Tree: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Project-2-Iris-Data-Classification.php
 
 3. Sentiment and WordCloud Analysis of Women E-Commerce: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Project-3-Sentiment-and-WordCloud-Analysis-of-Women-E-Commerce.php
+
+4. Snake Game Pygame: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Project-4-Snake-Game-Pygame.php
 
 ## Advanced
 
@@ -41,4 +44,4 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 5. Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network (RNN): https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-5-Analysis-with-Sentiment-Classification-using-Bidirectional-Recurrent-Neural-Network.php
 
-
+6. Credit Card Fraud Detection: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-6-Credit-Card-Fraud-Detection.php
