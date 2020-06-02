@@ -32,6 +32,10 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 4. Snake Game Pygame: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Project-4-Snake-Game-Pygame.php
 
+5. Detection of Real or Fake News: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Project-5-Detection-of-Real-or-Fake-News.php
+
+6. Find most similar word using Word2Vec: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Project-6-Find-most-similar-word-using-Word2Vec.php
+
 ## Advanced
 
 1. Facial Recognition Based Attendance Management System: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php
@@ -45,3 +49,7 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 5. Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network (RNN): https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-5-Analysis-with-Sentiment-Classification-using-Bidirectional-Recurrent-Neural-Network.php
 
 6. Credit Card Fraud Detection: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-6-Credit-Card-Fraud-Detection.php
+
+7. IMDB Movie Reviews Analysis: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-7-IMDB-Movie-Review-Sentiment-Analysis.php
+
+8. Next Alphabet/ Word Prediction using LSTM: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-8-Next-Alphabet-or-Word-Prediction-using-LSTM.php
