@@ -57,3 +57,7 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 8. Next Alphabet/ Word Prediction using LSTM: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-8-Next-Alphabet-or-Word-Prediction-using-LSTM.php
 
 9. Handwritten Digit Recognizer: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-9-Handwritten-Digit-Recognizer.php
+
+10. Smiling Face Detector using CNN: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-10-Smiling-Face-Detector-using-CNN.php
+
+11. Breast Cancer Classification: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-11-Breast-Cancer-Classification-using-SVR.php
