@@ -36,6 +36,8 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 6. Find most similar word using Word2Vec: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Project-6-Find-most-similar-word-using-Word2Vec.php
 
+7. Speed Typing in Python: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Project-7-Speed-Typing-in-Python.php
+
 ## Advanced
 
 1. Facial Recognition Based Attendance Management System: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php
@@ -53,3 +55,5 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 7. IMDB Movie Reviews Analysis: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-7-IMDB-Movie-Review-Sentiment-Analysis.php
 
 8. Next Alphabet/ Word Prediction using LSTM: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-8-Next-Alphabet-or-Word-Prediction-using-LSTM.php
+
+9. Handwritten Digit Recognizer: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-9-Handwritten-Digit-Recognizer.php
