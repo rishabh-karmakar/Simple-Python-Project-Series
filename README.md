@@ -61,3 +61,7 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 10. Smiling Face Detector using CNN: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-10-Smiling-Face-Detector-using-CNN.php
 
 11. Breast Cancer Classification: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Project-11-Breast-Cancer-Classification-using-SVR.php
+
+12. Image Caption Generator with CNN and LSTM: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-12-Image-Caption-Generator-using-CNN-and-LSTM.php
+
+13. CIFAR-10 Image Classification using Deep Learning: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-13-CIFAR-10-Image-Classification-using-Deep-Learning.php
