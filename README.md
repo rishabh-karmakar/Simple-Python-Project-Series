@@ -68,4 +68,4 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 14. Chatbot using NLTK and Keras: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-14-Python-Chatbot-using-NLTK-and-Keras.php
 
-15: Analysing Music Trends and Recommendations: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-15-Analysing-Music-Trends-and-Recommendations.php
+15. Analysing Music Trends and Recommendations: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-15-Analysing-Music-Trends-and-Recommendations.php
