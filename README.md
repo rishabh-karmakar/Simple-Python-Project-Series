@@ -74,4 +74,4 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 15. Analysing Music Trends and Recommendations: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-15-Analysing-Music-Trends-and-Recommendations.php
 
-16: Predicting Stock Market Prices: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-16-Predicting-and-Forecasting-Stock-Market-Prices.php
+16. Predicting Stock Market Prices: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-16-Predicting-and-Forecasting-Stock-Market-Prices.php
