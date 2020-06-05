@@ -38,6 +38,10 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 
 7. Speed Typing in Python: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Project-7-Speed-Typing-in-Python.php
 
+8. Optical Character and Text Recognizer from live Images:  https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Projects-8-Optical-Character-and-Text-Recognizer-from-Live-Images.php
+
+9. Tensorflow Live Object Detection: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Intermediate-Python-Projects-9-Tensorflow-Live-Object-Detection.php
+
 ## Advanced
 
 1. Facial Recognition Based Attendance Management System: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php
@@ -69,3 +73,5 @@ This repo contains Simple Python Project Series published by me on cppsecrets.co
 14. Chatbot using NLTK and Keras: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-14-Python-Chatbot-using-NLTK-and-Keras.php
 
 15. Analysing Music Trends and Recommendations: https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-15-Analysing-Music-Trends-and-Recommendations.php
+
+16: Predicting Stock Market Prices: http://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Python-Projects-16-Predicting-and-Forecasting-Stock-Market-Prices.php
